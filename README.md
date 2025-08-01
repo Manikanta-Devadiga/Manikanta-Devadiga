@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manikanta </h1>
-<h3 align="center">🔬 VLSI Design & Verification Engineer | RTL Enthusiast | Final Year ECE Student</h3>
-
+<!-- VLSI Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Aspiring+VLSI+Engineer;RTL+%7C+UVM+%7C+SystemVerilog+%7C+STA;Passionate+about+Semiconductor+Design;Let's+build+chips+that+change+the+world!" />
+  <img src="https://wallpaperaccess.com/full/16882076.jpg" alt="VLSI Banner" width="100%" />
 </p>
+
+<!-- Name + Title -->
+<h1 align="center">Hi 👋, I'm Manikanta D</h1>
+<h3 align="center">🔬 VLSI Design & Verification Engineer | RTL Enthusiast | Final Year ECE Student</h3>
 
 ---
 
@@ -23,35 +25,35 @@
 ## 🚀 Projects
 
 ### 🔷 1×3 Router – RTL Design & Verification
-- Implemented Router in Verilog using FIFO, FSM, and synchronizer blocks.
-- Verified using ModelSim & QuestaSim with 95% coverage.
-- ASIC flow adapted using SpyGlass and STA.
+- Designed a 1×3 router using FIFO, FSM, and synchronizer blocks.
+- Verified using task-based testbench in ModelSim/QuestaSim (95% coverage).
+- Adapted for ASIC flow using SpyGlass and STA.
 
 ### 🔷 FSM-Based Washing Machine Controller
-- FSM designed in Verilog for multi-cycle washing operation (wash/rinse/spin).
-- Simulated in Xilinx ISE for RTL analysis and testing.
+- FSM designed in Verilog to control wash, rinse, spin, and drain cycles.
+- Simulated using Xilinx ISE for functionality and signal integrity.
 
 ### 🔷 Adder Cum Subtractor with UVM
-- RTL + UVM verification project using industry tools.
-- Synthesized using Yosys and layouted in OpenROAD (GDSII generated).
+- RTL + UVM-based verification using Synopsys tools.
+- Synthesized via Yosys and generated GDSII layout in OpenROAD.
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- ✅ *VLSI For Beginners* – NIELIT Calicut  
-- ✅ *VLSI & Verilog Programming* – Infosys Springboard  
-- ✅ *Semiconductor Devices & Circuits* – Infosys Springboard  
-- ✅ *IoT Fundamentals* – GTTC Mangalore  
+- 🛠 *VLSI for Beginners* – NIELIT Calicut  
+- 🛠 *Digital Design & Verilog Programming* – Infosys Springboard  
+- 🛠 *Semiconductor Devices & Circuits* – Infosys Springboard  
+- 🛠 *Fundamentals of IoT* – GTTC Mangalore  
 
 ---
 
 ## 💼 Experience
 
-- **Maven Silicon (Trainee)** – RTL coding, FSMs, STA, SV/UVM  
-- **VTU Internship** – HDL, synthesis, OpenROAD  
-- **GTTC Mangalore (IoT Intern)** – ThingWorx & PLC basics  
-- **CACS Bangalore (Technician)** – BMS, chillers, site inspections  
+- 🧪 **Maven Silicon** – RTL Design, FSMs, STA, SystemVerilog & UVM  
+- 🔧 **VTU Internship** – HDL coding, synthesis, OpenROAD layout  
+- 🌐 **GTTC Mangalore** – IoT development, ThingWorx, PLC  
+- ⚙️ **CACS, Bangalore** – BMS & chiller systems maintenance
 
 ---
 
@@ -73,5 +75,6 @@
 ---
 
 <p align="center">
-⚡ *Designing circuits that power tomorrow’s innovations.*
+  ⚡ *Designing chips today to power tomorrow.*
 </p>
+
