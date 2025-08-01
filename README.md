@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikanta D</h1>
+<h1 align="center">Hi 👋, I'm Manikanta </h1>
 <h3 align="center">🔬 VLSI Design & Verification Engineer | RTL Enthusiast | Final Year ECE Student</h3>
 
 <p align="center">
